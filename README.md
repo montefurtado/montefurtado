@@ -1,17 +1,14 @@
-# Oi, a que devo a honra?
+Oi, a que devo a honra?
 
-## Quem sou eu?
-
-Curioso por natureza.
-
-Auto ditada por profissão.
+# Sobre mim
+Sou Monte Furtado, gosto de informática, em especial de programação.
+Aprecio aprender coisas úteis e divertidas.
+Amo a verdade.
+Meu lema é “Si vis pacem, para bellum”.
 
 ## O que eu faço?
+Programo em diferentes linguagens por prazer.
 
-### Com o que trabalho
+### Linguagens com as quais trabalho
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### Estatisticas
-
-![Sumario de Monte Furtado no GitHub](https://github-readme-stats.vercel.app/api?username=montefurtado&show_icons=true&theme=dracula&count_private=true)
+### Estatísticas
