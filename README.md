@@ -5,9 +5,11 @@ Sou Monte Furtado, gosto de informática, em especial de programação.
 
 Aprecio aprender coisas úteis e divertidas.
 
-Amo a verdade.
+Amo a Verdade.
 
 Meu lema é “Si vis pacem, para bellum”.
+
+Para entrar em contato, mande um email para mestredesenvolvedor@gmail.com
 
 ## O que eu faço?
 Programo em diferentes linguagens por prazer.
