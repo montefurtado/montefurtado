@@ -37,6 +37,8 @@ Bancos de dados:
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Estatísticas
-[![Monte Furtado GitHub stats](https://github-readme-stats.vercel.app/api?username=montefurtado&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark)](https://github.com/montefurtado?tab=repositories)
+[![Monte Furtado GitHub stats](https://github-readme-stats.vercel.app/api?username=montefurtado&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark)](https://github.com/montefurtado)
 
 [![Monte Furtado Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=montefurtado&langs_count=10&layout=pie)](https://github.com/montefurtado?tab=repositories)
+
+[![Monte Furtado github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=montefurtado&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/montefurtado?tab=repositories)
