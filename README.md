@@ -9,8 +9,6 @@ Amo a Verdade.
 
 Meu lema é “Si vis pacem, para bellum”.
 
-Para entrar em contato, mande um email para mestredesenvolvedor@gmail.com
-
 ## O que eu faço?
 Programo em diferentes linguagens por prazer.
 
